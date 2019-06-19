@@ -1,5 +1,5 @@
 # The-VBA-of-Wall-Street
-VBA_hw
+
 Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
@@ -65,29 +65,6 @@ CHALLENGE
 
 Make the appropriate adjustments to your script that will allow it to run on every worksheet, i.e., every year, just by running it once.
 This can be applied to any of the difficulties.
-
-
-
-Other Considerations
-
-
-Use the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
-Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
-
-
-
-Submission
-
-
-
-To submit please upload the following to Github:
-
-
-A screen shot for each year of your results on the Multi Year Stock Data.
-VBA Scripts as separate files.
-
-
-After everything has been saved, create a sharable link and submit that to https://bootcampspot-v2.com/.
 
 
 
